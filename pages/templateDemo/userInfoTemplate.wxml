@@ -1,0 +1,6 @@
+<template name="userInfoTemplate">
+   <view>
+      <view>姓名: {{userName}}</view>
+      <view>年龄: {{age}}</view>
+   </view>
+</template>

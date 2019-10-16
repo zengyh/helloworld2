@@ -1,0 +1,2 @@
+<view>{{message}}</view>
+<view hidden="{{flag ? true : false}}">Hidden</view>

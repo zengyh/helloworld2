@@ -1,0 +1,6 @@
+<view>
+     This is Hello!
+</view>
+<template name="helloTemplate">
+     This is HelloTemplate
+</template>

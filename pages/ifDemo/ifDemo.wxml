@@ -1,0 +1,10 @@
+<view>今天吃什么？</view>
+<view wx:if="{{condition === 1}}">
+   饺子
+</view>
+<view wx:elif="{{condition === 2}}">
+   米饭
+</view>
+<view wx:else>
+   面食
+</view>

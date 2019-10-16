@@ -1,0 +1,7 @@
+.clickMeButton{
+    width: 200rpx;
+    height: 50rpx;
+    border:1px solid black;
+    text-align: center;
+    margin: 0 auto;
+}

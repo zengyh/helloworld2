@@ -1,0 +1,3 @@
+<view bindtap="clickMeEvent" class="clickMeButton">
+   点击我
+</view>

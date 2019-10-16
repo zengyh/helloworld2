@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/scrollViewDemo/scrollViewDemo",
+    "pages/clickDemo/clickDemo",
+    "pages/templateDemo/templateDemo",
+    "pages/ifDemo/ifDemo",
+    "pages/listDemo/listDemo",
+    "pages/helloworld/helloworld"
+  ],
+  "sitemapLocation": "sitemap.json"
+}

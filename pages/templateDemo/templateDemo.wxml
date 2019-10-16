@@ -1,0 +1,6 @@
+<!-- import 只导入模板template文件内容 ，其它内容不导入 -->
+<import src="userInfoTemplate.wxml"></import>
+<template is="userInfoTemplate" data="{{...item}}"></template>
+<!-- include只导入模板template之外的内容，模板的内容不导入 -->
+<include src="helloTemplate"></include>
+<template is="helloTemplate"></template>

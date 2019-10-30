@@ -1,3 +1,5 @@
+<!--pages/shopDemo/shopDemo.wxml-->
+<view>{{msg}}</view>
 <view bindtap="clickMeEvent" class="clickMeButton">
-   点击我
-</view>
+ 点击我
+ </view>

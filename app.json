@@ -1,5 +1,7 @@
 {
   "pages": [
+    "pages/shopDemo/shopDemo",
+    "pages/shopDemo/join/join",
     "pages/scrollViewDemo/scrollViewDemo",
     "pages/clickDemo/clickDemo",
     "pages/templateDemo/templateDemo",
@@ -7,5 +9,24 @@
     "pages/listDemo/listDemo",
     "pages/helloworld/helloworld"
   ],
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "window": {
+    "navigationBarTitleText": "Demo"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/shopDemo/shopDemo",
+        "iconPath": "pages/images/ic_home_normal.png",
+        "selectedIconPath": "pages/images/ic_home_pressed.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/shopDemo/join/join",
+        "iconPath": "pages/images/ic_join_normal.png",
+        "selectedIconPath": "pages/images/ic_join_pressed.png",
+        "text": "加入我们"
+      }
+    ]
+  }
 }
